@@ -23,7 +23,7 @@ buttoneyes.oninput=()=>{
   eyes.style.fill=buttoneyes.value;
 }
 var buttonfaceplate=document.getElementById("buttonfaceplate");
-var faceplate=document.getElementById("faceplate");
+var faceplate=document.getElementById("face-plate");
 
 
 buttonfaceplate.oninput=()=>{
