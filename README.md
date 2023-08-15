@@ -4,4 +4,4 @@
 
 [ COLORING PALLETE APPLICATION ]
 
-[Edited & Made on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-4e2ybk)
+
